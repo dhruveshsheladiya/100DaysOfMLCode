@@ -8,7 +8,7 @@ Next,</br>
 
 Next clone the repo:
 
-```git clone https://github.com/Praneet460/100DaysofMLCode.git```
+```https://github.com/dhruveshsheladiya/100DaysOfMLCode.git```
 
 ### Start the Keras server
 
