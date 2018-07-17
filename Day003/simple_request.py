@@ -15,7 +15,7 @@ payload = {"image": image}
 
 # submit the request
 request_predict = requests.post(KERAS_REST_API_URL, files=payload).json()
-
+request_get=requests.get('/predictedModel',prediction)
 
 # ensure the request was sucessful
 if rrequest_predict["success"]:
